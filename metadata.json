@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Style Transformer",
+  "description": "An application to upload an image and transform its style using the Gemini API. Users can upload a photo and generate a new version in a different style, such as business professional or evening gown.",
+  "requestFramePermissions": []
+}
